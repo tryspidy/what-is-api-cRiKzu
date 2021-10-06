@@ -1,0 +1,13 @@
+It means connectivity. 
+I mean API is the messenger that takes requests and 
+tells a system what you want to do and then returns the response back to you
+What is JSON? JavaScript Object Notation 
+It's a key value pair. its popular light-weight way of transferring data
+What is Postman is a Client tool to work with APIs 
+to send requests get response. Organize the requests  
+Collection in Postman is a top level folder 
+Header: exists in both request and response, 
+is metadata about the request. It's a key value pair 
+Content Type: in request header: to specify what kind of data 
+we are sending to the server 
+in response header: what was the contenttype we got as response 
